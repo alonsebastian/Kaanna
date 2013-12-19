@@ -5,6 +5,8 @@ Kaanna was a small side project that I enjoyed working on for a while. It's a sm
 
 One of the main goals of the project was to be able to make it work on windows and linux both at once. This project never saw the light of day since google deprecated the translation API.
 
+DISCLAIMER: Some of this code was just meant to work and is not pretty at all.
+
 More on it:
 
 http://blog.alonsebastian.com.ar/post/15346993525/kaanna-the-project-that-never-got-to-launch-day
