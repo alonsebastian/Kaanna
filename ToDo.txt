@@ -1,0 +1,5 @@
+Translate texts #half-done
+ ^ Drag and drop system that displays the output in an embebbed text editor
+Program the setup.py
+Port the whole program to microsoft windows and test the notifications and the global hotkeys
+
